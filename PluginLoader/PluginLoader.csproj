@@ -7,7 +7,7 @@
     <ProjectGuid>{68211859-60B0-4748-884B-9B08D5B06369}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PluginLoader</RootNamespace>
+    <RootNamespace>Plugins</RootNamespace>
     <AssemblyName>PluginLoader</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
